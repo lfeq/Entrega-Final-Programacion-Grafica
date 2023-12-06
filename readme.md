@@ -8,6 +8,7 @@
 - En tu proyecto personal, crea un **prefab** de tu espada.
 - Crea una carpeta principal para tu espada y dentro de ella, las siguientes subcarpetas: **Materials, Models, Prefabs, Shaders, Textures**.
 - Coloca el prefab de tu espada en la carpeta **Prefabs**.
+
 ![image](readmeImages/File%20Order%20.png)
 
 ### 2. Exportar UnityPackage
