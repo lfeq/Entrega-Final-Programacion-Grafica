@@ -39,3 +39,6 @@
 
 ![image](readmeImages/Card%20Data%20Info.png)
 
+### 6. Ultimo paso
+-Vuelve a la escena **SampleScene**.
+-Busca el objeto llamado **[SwordShowcase]** y agrega los objetos que creaste en el paso anterior a la lista de **Card Data**.
