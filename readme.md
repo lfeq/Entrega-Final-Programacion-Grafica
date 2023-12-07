@@ -36,6 +36,7 @@
 ![Image](readmeImages/Opcion%20Card.png)
 - Asigna un nombre y completa la información solicitada en la ventana de creación de la tarjeta.
 - **Importante**: Recuerda la posición de la cámara con la que tu espada se veía bien y colócala en el campo **Camera Position**.
+- Existe una carpeta con los iconos de los tipos de Pokemon por si quieren usar uno de esos para su tipo, nada mas denle click en el circulito y busquen **type** y les van a salir unas opciones.
 
 ![image](readmeImages/Card%20Data%20Info.png)
 
