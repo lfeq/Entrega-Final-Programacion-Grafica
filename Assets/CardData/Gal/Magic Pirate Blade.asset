@@ -17,5 +17,5 @@ MonoBehaviour:
   cardPrefab: {fileID: 4685898549195904179, guid: 41919eb98f52a7b4383ea77997eb16f5,
     type: 3}
   cardType: {fileID: 21300000, guid: da7c92923aef4234dad10cc2e67c8ee8, type: 3}
-  cameraPositon: {x: -0.87, y: -0.22, z: -2.03}
+  cameraPositon: {x: -0.42, y: 0.11, z: -3.39}
   skybox: {fileID: 2100000, guid: 90038f618ca22c0429c5c6bd762d33f9, type: 2}
