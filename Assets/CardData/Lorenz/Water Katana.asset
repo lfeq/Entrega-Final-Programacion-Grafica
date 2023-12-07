@@ -18,3 +18,4 @@ MonoBehaviour:
     type: 3}
   cardType: {fileID: 21300000, guid: a4dded5086cb9bd4c9f7697c1697bcfc, type: 3}
   cameraPositon: {x: 0, y: 0, z: -3.5}
+  skybox: {fileID: 2100000, guid: 618acdbd2ce7020418e84730f38af81e, type: 2}
