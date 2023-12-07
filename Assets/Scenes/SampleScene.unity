@@ -883,6 +883,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 709ea198f154a094382c15c5874a24cc, type: 2}
   - {fileID: 11400000, guid: 3241e2c477ad8c146a27b9d622a3e23e, type: 2}
   - {fileID: 11400000, guid: b46336bfc87ad244289b621a372e3b1b, type: 2}
+  - {fileID: 11400000, guid: 3beb6f9cdca6a684cad8aca94369b5cc, type: 2}
+  - {fileID: 11400000, guid: 351ba07368a34f54f9c3dcc17b0ba71b, type: 2}
+  - {fileID: 11400000, guid: 5f98c8475b1db774c8f78db00ad34473, type: 2}
   cardNameText: {fileID: 159113256}
   cardDescription: {fileID: 2140614042}
   cardIcon: {fileID: 1499685233}
