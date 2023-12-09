@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: 7f6130ccef6198f4394f67c377133ce6, type: 2}
+  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.02816034, g: 0.027239582, b: 0.049286935, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -880,9 +880,12 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 2cea3b04959fcd447bd236bc6b4f420d, type: 2}
   - {fileID: 11400000, guid: c1f603f90319ad14c9cdd77fa01bc552, type: 2}
   - {fileID: 11400000, guid: a3d281d46f7cc5c40b61ced939576691, type: 2}
-  - {fileID: 11400000, guid: ae427ebd19d9d2440ba7249d7c3e95f1, type: 2}
-  - {fileID: 11400000, guid: fefbd2eba7bdc3147a2b3fab303b7079, type: 2}
-  - {fileID: 11400000, guid: 791a6bd17421e6444ad8f08e78d76ea6, type: 2}
+  - {fileID: 11400000, guid: 709ea198f154a094382c15c5874a24cc, type: 2}
+  - {fileID: 11400000, guid: 3241e2c477ad8c146a27b9d622a3e23e, type: 2}
+  - {fileID: 11400000, guid: b46336bfc87ad244289b621a372e3b1b, type: 2}
+  - {fileID: 11400000, guid: 3beb6f9cdca6a684cad8aca94369b5cc, type: 2}
+  - {fileID: 11400000, guid: 351ba07368a34f54f9c3dcc17b0ba71b, type: 2}
+  - {fileID: 11400000, guid: 5f98c8475b1db774c8f78db00ad34473, type: 2}
   cardNameText: {fileID: 159113256}
   cardDescription: {fileID: 2140614042}
   cardIcon: {fileID: 1499685233}
@@ -1156,8 +1159,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1436515073}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.4, y: -6.7, z: -22.3}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.29, z: -7.01}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

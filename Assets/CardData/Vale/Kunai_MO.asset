@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e77e491488e2ab94994ea73db5eb5cf9, type: 3}
+  m_Name: Kunai_MO
+  m_EditorClassIdentifier: 
+  cardName: Cuchioscu
+  description: Cuchillo a corto alcance que funciona en el espacio.
+  cardPrefab: {fileID: 1232146438957311503, guid: 26fb6daf7393a7d4a98feec2a1f31184,
+    type: 3}
+  cardType: {fileID: 21300000, guid: da7c92923aef4234dad10cc2e67c8ee8, type: 3}
+  cameraPositon: {x: 1.72, y: 5.88, z: -10.28}
+  skybox: {fileID: 2100000, guid: f9f788dd25f46944789bbaa8fcd4bb91, type: 2}

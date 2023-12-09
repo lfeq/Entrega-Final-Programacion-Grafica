@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7679086742630647306
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Material_Ice
+  m_Shader: {fileID: -6465566751694194690, guid: a7e2219c7a0254d4d99c05d1fc93f10b,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _EmisionTexture:
+        m_Texture: {fileID: 2800000, guid: 6b96bcc601e1dfb40866a8be96ba2560, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 2800000, guid: f57238a770fd88b439ec308625ec4742, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_637a94da16ce43bd85d84b123a5f582a_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: f57238a770fd88b439ec308625ec4742, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_acd03d07702a4cd781180a6d9a29f5e2_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: f57238a770fd88b439ec308625ec4742, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_d00a5e89a1c54e89bd9c28457db8e9a9_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: d62a15e8ea18f954e8ccea140fbc5357, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_e6c2ed9c458049e6b9628a763b828817_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 0aca6c3ab6609f640b3be5e1b3174192, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_ec6bd868a3e3460dac6fb5bedc88c641_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 0aca6c3ab6609f640b3be5e1b3174192, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _StarsSpeed_2: 1
+    - _StartSpeed_1: -0.5
+    m_Colors:
+    - _StarsColor_2: {r: 0, g: 0, b: 0, a: 0}
+    - _StartsColor_1: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
