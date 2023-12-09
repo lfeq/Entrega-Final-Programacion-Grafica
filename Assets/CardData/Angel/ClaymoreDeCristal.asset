@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e77e491488e2ab94994ea73db5eb5cf9, type: 3}
-  m_Name: Magic Pirate Blade
+  m_Name: ClaymoreDeCristal
   m_EditorClassIdentifier: 
-  cardName: Magic Pirate Blade
-  description: This sword moves faster than any other and has a powerful strike.
-  cardPrefab: {fileID: 4685898549195904179, guid: 41919eb98f52a7b4383ea77997eb16f5,
+  cardName: CrystalClaymore
+  description: Al cortar a un enemigo este queda paralisado por 5 seg
+  cardPrefab: {fileID: 2379248553477340569, guid: ef654b98915eb3942ba36e7742ca1afa,
     type: 3}
-  cardType: {fileID: 21300000, guid: da7c92923aef4234dad10cc2e67c8ee8, type: 3}
-  cameraPositon: {x: -0.42, y: 0.11, z: -3.39}
+  cardType: {fileID: 21300000, guid: e65b86acf62f1c147b07882ea3073db1, type: 3}
+  cameraPositon: {x: -2.09, y: 2.86, z: -13.74}
   skybox: {fileID: 2100000, guid: 90038f618ca22c0429c5c6bd762d33f9, type: 2}
